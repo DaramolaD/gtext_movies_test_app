@@ -2,7 +2,7 @@ import axios, { AxiosResponse } from "axios";
 import { DetailMovie } from "../types/types";
 
 const API_KEY = "da5300c2";
-const BASE_URL = "http://www.omdbapi.com/";
+const BASE_URL = "https://www.omdbapi.com/";
 
 // Get Movies base in use input
 export const getSearchMovies = async (query: string) => {
