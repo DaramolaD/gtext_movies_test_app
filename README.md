@@ -59,6 +59,8 @@ Create a `.env` file in the root directory and add your OMDB API key:
 REACT_APP_OMDB_API_KEY=your_api_key_here
 ```
 
+Note: I have included my OMDb API key temporarily for your testing convenience. However, please ensure you obtain your own API key from the OMDb platform, as this one will be deactivated soon. OMDb offers free access for initial use.
+
 You can obtain an API key from [OMDB API](http://www.omdbapi.com/).
 
 ### 4. Start the Application
