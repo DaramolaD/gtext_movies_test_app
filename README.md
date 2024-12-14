@@ -23,6 +23,10 @@ This is a movie search application that allows users to search for movies, view 
 - **Tailwind CSS**: For utility-first CSS styling.
 - **OMDB API**: For fetching movie data.
 - **Vite**: For fast bundling and development.
+- **Atomic Design**: A methodology used for building UI components. The components are organized in a hierarchical structure for reusability and scalability. The app is divided into:
+    - Atoms: Basic building blocks (e.g., buttons, inputs).
+    - Molecules: Combinations of atoms that form functional UI elements (e.g., movie cards, search bar).
+    - Organisms: Complex UI components made up of molecules (e.g., movie section, header section).
 
 ## Features
 
