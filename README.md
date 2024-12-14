@@ -33,7 +33,7 @@ This is a movie search application that allows users to search for movies, view 
 - **Search Movies**: Users can search for movies by title.
 - **Movie Details**: Users can view detailed information about a selected movie, including its title, plot, ratings, etc.
 - **Bookmark Movies**: Users can bookmark their favorite movies for easy access later.
-- **Responsive Design**: The application is fully responsive and works well on both desktop and mobile devices.
+- **Responsive Design**: The application is fully responsive and works well on both desktop and mobile devices. It also features a user-friendly UI/UX.
 
 ## Setup and Installation
 
@@ -70,4 +70,4 @@ After installing dependencies and setting up the environment variables, you can 
 npm start
 ```
 
-The application should now be running at `http://localhost:3000`.
+The application should now be running at `http://localhost:5173/`.
